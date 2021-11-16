@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nicolasbetancourtc
 - 🌱 I’m interested in aplied math including: convex and stochastic optimization, tensor algebra, statistics, machine learning. 
-     I'm specially interested in aplications of math and programming to biology and conservation biology.
-- 💞️ I’m looking to collaborate on conservation projects or any aplication of math that can contribute to biology projects
+     I'm specially interested in math and programming aplications to sustainability and conservation biology.
 - 📫 How to reach me https://www.linkedin.com/in/nicolas-betancourt-cardona/
 
 <!---
